@@ -4,8 +4,8 @@ import React from 'react'
 import { NavigationContainer } from '@react-navigation/native'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
 // screens
-import Home from './screen/home'
-import Detail from './screen/detail'
+import Home from './screen/Home'
+import Detail from './screen/Detail'
 
 export type RootStackParamList = {
   Home: undefined;
